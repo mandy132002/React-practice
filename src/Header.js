@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom/client';
 function Header(){
     return (
         <header>
-                <nav className="navbar mb-4 bg-black text-white flex justify-between">
+                <nav className="navbar  bg-black text-white flex justify-between">
                 <img className="image w-1/12" src="./images/logo1.png"  />
                 <ul className="list-items flex text-2xl space-x-6 mr-6" >
                     <li className='p-4'>Events</li>

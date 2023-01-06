@@ -5,7 +5,7 @@ import Footer from './Footer'
 function App() {
   return (
     <>
-      <div className='bg-gray-500 '>
+      <div className=' flex flex-col justify-between '>
       <Header/>
       <MainContent/>
       <Footer/>

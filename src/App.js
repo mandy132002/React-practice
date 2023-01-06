@@ -5,9 +5,12 @@ import Footer from './Footer'
 function App() {
   return (
     <>
+      <div className='bg-gray-500 '>
       <Header/>
       <MainContent/>
       <Footer/>
+      </div>
+      
     </>
   )
 }
